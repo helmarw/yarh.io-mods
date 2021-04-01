@@ -50,5 +50,5 @@ https://www.stderr.nl/Blog/Hardware/RaspberryPi/PowerButton.html
 setting up gpio buttons via device tree overly (dtoverlay):
 https://blog.gegg.us/2017/01/setting-up-a-gpio-button-keyboard-on-a-raspberry-pi/
 
-enabling hwclock and deleting fake-hwclock:
+activate hwclock and deleting fake-hwclock:
 https://pimylifeup.com/raspberry-pi-rtc/
