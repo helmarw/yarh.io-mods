@@ -2,19 +2,20 @@
 MODs for
 [Y]ET [A]NOTHER [R]ASPBERRY [H]ANDHELD
 
-original idea nad files can be found here
+original idea and files can be found here
 
 https://yarh.io/yarh-io-mki.html
 
 
-i added 5 progarmmable GPIO buttons to the front and a custom made pcb to hook up the
-buttons and the RTC, or any other i2c device for that matter
-it can be hooked up to the LCD, see KiCad files
+i added 5 programable GPIO buttons to the front and a custom made pcb (see kicad files) 
+to connect the buttons and the RTC (or any other i2c device for that matter)
+it can be hooked up to the free pinheader at the back of the LCD...
 
-i also uploded modifies stl files for the frontpanel.
-i also closed a few holes i didnt utilize
+i uploded modified stl files for the frontpanel.
+i also closed a few holes i didnt utilize and simplified the cabeling for my purpose.
+and added a camera holder to the housing. for my purpose for a purethermal2 FLIR camera,
 
-additionally here the parts i used
+the additional parts i used
 
 Prototype PCBs:
 
@@ -37,8 +38,9 @@ or
 BOJACK ELECTRON
 Erfahren Sie mehr: https://www.amazon.com/dp/B07ZBHXBZ4/ref=cm_sw_em_r_mt_dp_M1YMZXK227A3NDJCXFJZ
 
+------------------------------------------------------------
 
-additional imformation:
+further information:
 
 how to programm a shutdown button:
 https://www.stderr.nl/Blog/Hardware/RaspberryPi/PowerButton.html
