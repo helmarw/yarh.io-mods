@@ -10,14 +10,14 @@ https://yarh.io/yarh-io-mki.html
 
 
 i added 5 programable GPIO buttons to the front and a custom made pcb (see kicad files) 
-to connect the buttons and the RTC (or any other i2c device for that matter)
-it can be hooked up to the free pinheader at the back of the LCD...
+to connect the buttons and the RTC (or any other i2c device for that matter).
+It can be hooked up to the free pinheader at the back of the LCD...
 
 i uploded modified stl files for the frontpanel.
 i also closed a few holes i didnt utilize and simplified the cabeling for my purpose.
-and added a camera holder to the housing. for my purpose for a purethermal2 FLIR camera,
+Added a holder for a PureThermal2-UVC FLIR-camera to the housing.
 
-the additional parts i used
+The additional parts i used:
 
 Prototype PCBs:
 
