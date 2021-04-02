@@ -8,6 +8,7 @@ https://yarh.io/yarh-io-mki.html
 
 ![Assembly](https://user-images.githubusercontent.com/10408121/113346224-dcaef200-9333-11eb-8f27-a41db50b765d.png)
 
+![Assembly_front](https://user-images.githubusercontent.com/10408121/113440420-a5504c00-93ec-11eb-8af5-111e2553e23f.png)
 
 i added 5 programable GPIO buttons to the front and a custom made pcb (see kicad files) 
 to connect the buttons and the RTC (or any other i2c device for that matter).
