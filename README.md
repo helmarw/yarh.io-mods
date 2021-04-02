@@ -16,7 +16,8 @@ It can be hooked up to the free pinheader at the back of the LCD...
 
 i uploded modified stl files for the frontpanel.
 i also closed a few holes i didnt utilize and simplified the cabeling for my purpose.
-Added a holder for a PureThermal2-UVC FLIR-camera to the housing.
+Made a battery cover with place to store the stylus and
+added a holder for a PureThermal2-UVC FLIR-camera to the housing.
 
 The additional parts i used:
 
